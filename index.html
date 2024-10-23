@@ -925,5 +925,32 @@
     <!-- ===================== Email JS ================ -->
     
     <script src="assets/js/email.js"></script>
+
+<!-- ===================== Firebase ================ -->
+
+    <script type="module">
+      // Import the functions you need from the SDKs you need
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-app.js";
+      import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-analytics.js";
+      // TODO: Add SDKs for Firebase products that you want to use
+      // https://firebase.google.com/docs/web/setup#available-libraries
+    
+      // Your web app's Firebase configuration
+      // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+      const firebaseConfig = {
+        apiKey: "AIzaSyA8rWKMrMTZdMQcdE50oZoPeOiMIyAurNM",
+        authDomain: "dark-light-portfoli.firebaseapp.com",
+        projectId: "dark-light-portfoli",
+        storageBucket: "dark-light-portfoli.appspot.com",
+        messagingSenderId: "84803752381",
+        appId: "1:84803752381:web:196b4bf12a0ca309f702d4",
+        measurementId: "G-1Z2TCP561S"
+      };
+    
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+      const analytics = getAnalytics(app);
+    </script>
+
   </body>
 </html>
