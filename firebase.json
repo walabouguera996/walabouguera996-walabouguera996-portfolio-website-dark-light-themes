@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "portfolio-wala-bouguera",
-    "public": "public",
+    "public": "public1",
     "ignore": [
       "firebase.json",
       "**/.*",
