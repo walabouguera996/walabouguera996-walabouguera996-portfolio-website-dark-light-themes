@@ -3,8 +3,8 @@
 A great professional looking and fully responsive personal website to showcase your development portfolio.
 
 ## Feature List and Screenshots
-### [Visit Website](https://portfolio-wala-bouguera.web.app//)
-#### [Visit Website V1] (https://dark-light-portfoli.web.app/)
+### [VisitV0](https://portfolio-wala-bouguera.web.app//)
+#### [VisitV1] (https://dark-light-portfoli.web.app/)
 
 ### Features
 ```
@@ -24,9 +24,9 @@ A great professional looking and fully responsive personal website to showcase y
 
 ### Switch between light and dark theme
 
-<img width="1421" alt="Light theme about me section">
+<img width="1421" alt="Light theme about me section" src="assets/img/readme images/Light theme about me section.png">
 
-![alt text](<assets/img/readme images/Light theme about me section.png>)
+![alt text](<>)
 
 <img width="1420" alt="Dark theme about me section">
 
