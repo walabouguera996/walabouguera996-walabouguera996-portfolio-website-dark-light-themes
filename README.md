@@ -38,7 +38,7 @@ A great professional looking and fully responsive personal website to showcase y
 <img width="338" alt="Screenshot 2022-06-20 at 6 14 38 PM" src="/assets/readme images/mobile2.png">
 <img width="331" alt="Screenshot 2022-06-20 at 6 14 53 PM" src="/assets/readme images/mobile3.png">
 <img width="328" alt="Screenshot 2022-06-20 at 6 16 24 PM" src="/assets/readme images/mobile4.png">
-<img width="329" alt="Screenshot 2022-06-20 at 6 16 41 PM" src="/assets/readme images/mobile5.png
+<img width="329" alt="Screenshot 2022-06-20 at 6 16 41 PM" src="/assets/readme images/mobile5.png">
 ### Future Improvements 
 ```
 1. Improve overall ratings as per lighthouse auditing
@@ -49,5 +49,5 @@ A great professional looking and fully responsive personal website to showcase y
 ## Author
 
 Email - walabouguera996@gmail.com \
-Portfolio - https://portfolio-wala-bouguera.web.app/
+Portfolio - https://portfolio-wala-bouguera.web.app/  \
 Portfolio - https://dark-light-portfoli.web.app/
